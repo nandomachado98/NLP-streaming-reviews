@@ -1,6 +1,6 @@
 # NLP-streaming-reviews
 
-### Using a Rotten Tomatoes Dataset of Online Streaming Shows for Sentiment Analysis, Classification and Entity Recognition
+### Using a Rotten Tomatoes Dataset of Reviews of Online Streaming Shows for Sentiment Analysis, Classification and Entity Recognition
 
 ### How to run:
 
